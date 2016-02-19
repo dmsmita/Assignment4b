@@ -1,0 +1,11 @@
+
+lines, circles, rectangles	15/15
+multiple figures		15/15
+Undo				10/15
+  When undo then add then undo, the undo function gets confused and removes wrong element
+Using big ratom			15/15
+Code Quality			10/10
+Provide schema for big ratom	5/5
+
+Total				70/75
+
